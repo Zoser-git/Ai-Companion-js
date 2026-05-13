@@ -186,7 +186,7 @@ function applyUiSkin(scope) {
 // ═══════════════════════════════════════════════════
 //  CONFIG — paste your Groq key here
 // ═══════════════════════════════════════════════════
-var GROQ_KEY = "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";
+var GROQ_KEY = "Available in original file removed from here for safety";
 
 // ═══════════════════════════════════════════════════
 //  PLAYER STATE
